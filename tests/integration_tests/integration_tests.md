@@ -1,0 +1,1 @@
+# Testes de integração para validar a interação entre módulos.
