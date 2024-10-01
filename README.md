@@ -1,6 +1,8 @@
 # QA Automation Project 
 
-Este repositório contém testes automatizados para o projeto **[Nome do Projeto]**. A seguir estão as instruções para configuração, execução de testes e contribuição. 
+Este repositório contém testes automatizados para o projeto **[Nome do Projeto]**. 
+
+A seguir estão as instruções para configuração, execução de testes e contribuição. 
 
 ## Estrutura do Projeto 
 
@@ -14,10 +16,10 @@ Este repositório contém testes automatizados para o projeto **[Nome do Projeto
 
 - **/logs**: Logs de execução dos testes. 
 
-## Instalação 1. Clone este repositório: 
+## Clone este repositório: 
 
 ```bash 
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/rfahham/quality-assurance.git
 ```
 
 ## Contribuindo
